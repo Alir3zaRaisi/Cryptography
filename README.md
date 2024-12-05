@@ -66,6 +66,4 @@ pip install -r requirements.txt
 - Add implementations for additional cryptographic algorithms like AES, Diffie-Hellman, and SHA-256.
 - Include tools for file encryption/decryption.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
